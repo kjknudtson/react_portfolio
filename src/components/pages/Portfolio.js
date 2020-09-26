@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useLocation } from "react-router-dom";
+
 import "./style/portfoliostyle.css";
 import Planner from "../assets/img/Workday_Scheduler.png";
 import WX from "../assets/img/Weather_Dashboard.png";
