@@ -1,0 +1,24 @@
+/* Stylesheet for Home Page */
+
+
+
+ul {
+    background-color: darkblue;
+}
+
+.active {
+    background-color: lightskyblue;
+}
+
+/* Jumbotron formatting */
+.jumbotron {
+   text-align: center;
+   margin: 10px;
+}
+
+
+/* Text formatting */
+.homeContent {
+    padding-right: 15px;
+}
+
